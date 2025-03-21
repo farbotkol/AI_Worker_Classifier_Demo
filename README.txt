@@ -9,7 +9,7 @@
 4. Run the following commands:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 streamlit run worker_classification_ui.py
 ```
 
